@@ -1,0 +1,36 @@
+Introduction
+
+	You guys must have waited a long time for the seating in the cafeteria,
+	{Ask the audience if they faced this issue.}, We thought that and that’s why we came up with this solution.
+	
+	 Don't you think it's very frustrating to keep checking if the seats are available or not, What if you can check it on your pc screen!. So we have taken our small problem and we engineered the best solution out of it. So we have used machine learning to create a real-time space monitoring system, So basically it will just help you find the availability of table and chair in the cafeteria easily. So let us show a small demonstration of how it's gonna work.
+
+	 ************************************Demonstration*************************
+
+	 So after seeing the demonstration, what are your thoughts, Can I? get a woahh if you like it. Or boo if you didn't,
+	 *Improvise as per the response**
+	
+	So let us explain what is happening behind the scenes and how we achieved these results. 
+
+	So we have name this project Intelligent Space Identification System, And we know it's a long name.But it is what it is (humour). So as per the introduction you know we have used ML to create it.
+ 	So we did a lot of research and initially we came up with different ideas like what if we build Car space Identification system and so on after that we had many discussions and we got an idea why not pick the exising problem that we face on regular basis. 
+
+
+ Advantages 
+	- All in One Solution 
+	- Cost Effective
+	- Can be used in multiple sectors
+		- Car Parking
+		- Educational
+		- Restaurant
+		- Restricted Area's
+
+
+********* Pending *********
+Difficulties Faced
+Technical things
+
+Future Ehancement
+ - In future we're planning it to enhance more so that it can be used in different sectors.
+ - Training the model to give 100% accurancy
+ 
