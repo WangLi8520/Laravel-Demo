@@ -1,0 +1,41 @@
+Add photo of existing issue
+Here's the solution
+Tadaaaaaa
+
+Introduction
+A seat occupancy detection system that leverages existing surveillance camera infrastructure and uses different techniques to map which seats are available in the cafeteria
+
+Why this Topic?
+-We all have been facing this issue for a long time.
+
+-Don't you think it's frustrating that We need to check the availability of chairs by going to the cafeteria or sometimes calling someone.
+
+
+-Gradually, the company size is increasing and this issue of availability of chairs will increase too.
+
+-So we have taken our small problem and we engineered the best solution out of it
+
+
+Demonstration
+
+Advantages
+- All-in-One Solution
+- Cost Effective
+ - Can be used in multiple sectors
+  - Car Parking
+  - Educational
+  - Restaurant
+  - Restricted Area's
+
+Project Specification
+
+Images 
+
+Difficulties Faced
+
+Future Goals
+
+Train the model to get 100% of accuracy
+Implement this solution on bigger scales and different sectors.
+
+Meet our Amazing Team
